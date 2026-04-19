@@ -15,5 +15,6 @@
 
 #### click koro--->Send a message er +sign--->search: Respond to Webhook--->value set koro.
 
-#### update koro--->Webhook er--->Respond e daw: Using "Respond to Webhook" Node--->copy koro: Production Url
+#### update koro--->Webhook er--->Respond e daw: Using "Respond to Webhook" Node--->copy koro: Production Url--->index.html file er try block e paste koro.
 ![](https://imgur.com/Wcuy4cX.png)
+![](https://imgur.com/a0lCKIC.png)
