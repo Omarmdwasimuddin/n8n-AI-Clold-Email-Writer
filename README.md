@@ -10,3 +10,6 @@
 
 #### click koro--->Message a model er +sign--->search: code---> click Code in JavaScript--->codeNode.js file er code copy koro--->paste koro: Code in JavaScript er modhe--->click koro: Execute step.
 ![](https://imgur.com/x5BgheK.png)
+
+#### click koro--->Code in JavaScript er +sign--->search: gmail--->click: Send a message--->
+![](https://imgur.com/x5BgheK.png)
