@@ -7,3 +7,6 @@ sk-proj-Adb6LM2AXFQCxlpL1CopCHxR8pIJgBs_kJM_96lmDTjWOgcVaBRy1v5WtjSdK7B3PUBw-Lrh
 
 #### click koro: Add first step--->search & click: Webhook---> HTTP Method daw: POST--->copy: Test URL---> Paste koro: index.html file er try block e ---> click koro: Listen for test evant--->index.html open koro browser e & form e value daw & EXECUTE DRAFT click koro.
 ![](https://imgur.com/8OHFcUn.png)
+
+#### click koro--->Webhook er +sign--->search: OpenAi--->click: Message a model--->
+![](https://imgur.com/8OHFcUn.png)
