@@ -5,5 +5,8 @@
 #### click koro: Add first step--->search & click: Webhook---> HTTP Method daw: POST--->copy: Test URL---> Paste koro: index.html file er try block e ---> click koro: Listen for test evant--->index.html open koro browser e & form e value daw & EXECUTE DRAFT click koro.
 ![](https://imgur.com/8OHFcUn.png)
 
-#### click koro--->Webhook er +sign--->search: OpenAi--->click: Message a model--->click: Set up credential--->paste: api key--->save button click koro--->
+#### click koro--->Webhook er +sign--->search: OpenAi--->click: Message a model--->click: Set up credential--->paste: api key--->save button click koro--->Execute Step click koro.
+![](https://imgur.com/6Pcux93.png)
+
+#### click koro--->Message a model er +sign--->search: code---> click Code in JavaScript--->
 ![](https://imgur.com/8OHFcUn.png)
