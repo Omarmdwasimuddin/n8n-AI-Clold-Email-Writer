@@ -5,4 +5,4 @@
 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
 ```
 
-#### click koro: Add first step--->search & click: Webhook--->
+#### click koro: Add first step--->search & click: Webhook---> HTTP Method daw: POST--->copy: Test URL
