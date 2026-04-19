@@ -8,5 +8,5 @@
 #### click koro--->Webhook er +sign--->search: OpenAi--->click: Message a model--->click: Set up credential--->paste: api key--->save button click koro--->Execute Step click koro.
 ![](https://imgur.com/6Pcux93.png)
 
-#### click koro--->Message a model er +sign--->search: code---> click Code in JavaScript--->
+#### click koro--->Message a model er +sign--->search: code---> click Code in JavaScript--->codeNode.js file er code copy koro--->paste koro: 
 ![](https://imgur.com/8OHFcUn.png)
