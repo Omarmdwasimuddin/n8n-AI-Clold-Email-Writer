@@ -13,4 +13,4 @@
 
 #### click koro--->Code in JavaScript er +sign--->search: gmail--->click: Send a message--->value set koro.
 
-#### click koro--->Code in JavaScript er +sign--->search: gmail--->click: Send a message--->value set koro.
+#### click koro--->Send a message er +sign--->search: Respond to Webhook--->value set koro.
