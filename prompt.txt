@@ -1,1 +1,8 @@
-Write a high-conversion, professional cold email for the client named {{ $json.body.clientName }} offering the service of {{ $json.body.service }}. MY INFORMATION: My name is Farzeen Ali and my company is Techzeen. STRICT RULES: You must start the response directly with 'Subject:'. Do not use any brackets like [Your Name], [Your Company], or [Insert Phone]. Replace all such placeholders with the information I provided. If some information is missing, simply omit that part instead of using a bracket. Do not include any introductory phrases like 'Sure' or 'Here is your draft'. Only provide the final email content in English.
+Subject: Boost Your Business with Expert {{ $json.body.service }}
+
+Hi {{ $json.body.clientName }},
+
+I’m Wasim. We help businesses like yours achieve real results with {{ $json.body.service }}—driving growth, efficiency, and measurable ROI.
+
+Let’s connect and explore how we can add value to your business.
+
